@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662551928768",
+    "project_id": "fir-deep-link-home",
+    "storage_bucket": "fir-deep-link-home.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662551928768:android:d771415cd6a9d7c400f225",
+        "android_client_info": {
+          "package_name": "com.example.firebase_deep_link"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu8mfCXYOzmMbZDVmGVEc224GI7VDNy8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
